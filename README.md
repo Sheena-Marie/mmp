@@ -25,3 +25,5 @@ gem monban-generators (being used for login and logout instead of devise)
 
 * ... -->
 # mmp
+
+Two sided marketplace matching up small business owners with mentors.
